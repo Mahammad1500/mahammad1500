@@ -39,7 +39,7 @@
 
 ---
 
-### 🗣 Spoken Languages
+ ### 🧠 Languages Known
 
 • Telugu  
 • Hindi  
