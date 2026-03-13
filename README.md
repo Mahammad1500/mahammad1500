@@ -23,16 +23,11 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/mahammadhussain1500" target="_blank">
+<a href="https://leetcode.com/mahammad1500/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/>
 </a>
 
-<a href="https://github.com/mahammad1500" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
 </p>
-
 
 ### 🛠 Languages and Tools
 
